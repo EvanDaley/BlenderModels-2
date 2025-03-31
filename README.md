@@ -7,39 +7,5 @@ Some of my favorite models are:
 
 ### Oreo
 
-![hexagons](RenderImages/003_Containers.png)
-
-### Hexagons Blue
-
-![hexagons](RenderImages/Blue.png)
-
-### Portal
-
-![portal image](RenderedPortal.png)
-Based on tutorial: https://www.youtube.com/watch?v=A2Wfl4pyZe0
-
-Files:
-- Portal.blend
-- Portal.glb
-- PortalWithBackground.glb
-
-### Oxygen Container
-
-![oxygen container](RenderedOxygenContainer.png)
-Based on tutorial: https://www.youtube.com/watch?v=AMR7uW-Vrd4
-
-Files:
-- OxygenContainer.blend
-- OxygenContainer.glb
-
-### Hexagons Red
-
-![hexagons](RenderImages/Frame30_HDRI_Only_Red.png)
-
-### Docker Whale - Attempt 1
-
-![hexagons](RenderImages/Whale4.png)
-
-### Docker Whale - Attempt 2
-
-![hexagons](RenderImages/Whale5_lol.png)
+![oreo](oreo/oreo.png)
+Based on tutorial: https://www.youtube.com/shorts/dAl5pHsJfdo
