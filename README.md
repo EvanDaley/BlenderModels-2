@@ -6,9 +6,6 @@ This repo includes a bunch of unfinished models and some render output that I us
 Some of my favorite models are:
 
 ### Oreo
-
-![oreo](oreo/oreo.png)
 <img src="oreo/oreo.png" alt="oreo" width="50%">
-
 Based on tutorial: https://www.youtube.com/shorts/dAl5pHsJfdo
 
