@@ -6,8 +6,9 @@ This repo includes a bunch of unfinished models and some render output that I us
 Some of my favorite models are:
 
 ### Oreo
-<img src="oreo/oreo.png" alt="oreo" width="50%">
 Based on tutorial: https://www.youtube.com/shorts/dAl5pHsJfdo
+<img src="oreo/oreo.png" alt="oreo" width="50%">
 
-### Drone Baal-Eye Mk II
-<img src="drone Baal-Eye\ Mk\ II/baal-eye-mk-ii.png" alt="drone" width="50%">
+### Evil Drone - Baal-Eye Mk II
+This was done as practice. The concept art was created by MidJourney and the name was from a list of "evil drone names" from ChatGPT
+<img src="drone Baal-Eye Mk II/baal-eye-mk-ii.png" alt="drone" width="50%">
