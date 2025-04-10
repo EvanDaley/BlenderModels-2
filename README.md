@@ -9,3 +9,5 @@ Some of my favorite models are:
 <img src="oreo/oreo.png" alt="oreo" width="50%">
 Based on tutorial: https://www.youtube.com/shorts/dAl5pHsJfdo
 
+### Drone Baal-Eye Mk II
+<img src="drone Baal-Eye\ Mk\ II/baal-eye-mk-ii.png" alt="drone" width="50%">
