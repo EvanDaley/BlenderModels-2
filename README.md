@@ -7,8 +7,8 @@ This repo includes a bunch of unfinished models and some render output that I us
 
 Some of my favorite models are: -->
 
-### Toast Pro
-New Apple product just dropped! The new M4 powered Toast Pro.
+### Apple Toast Pro
+New Apple product just dropped! Stonks boutta pop off.
 <img src="toaster/final-render.png" alt="toaster" width="50%">
 
 <!-- ### "Evil Drone" - Baal-Eye Mk II
