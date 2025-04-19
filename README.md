@@ -1,5 +1,3 @@
-# BlenderModels 2
-
 Fucking around with Blender
 <!-- Blender models in Blender and sometimes glTF 2 format, along with hdri files and render output.
 
