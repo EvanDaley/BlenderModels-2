@@ -4,11 +4,6 @@ This repo includes a bunch of unfinished models and some render output that I us
 
 Some of my favorite models are:
 
-#### Anime Inspired Robots (Attempt 1)
-<img src="robot/render_3.png" alt="toaster" width="100%">
-<img src="robot/render_2.png" alt="toaster" width="100%">
-<img src="robot/render_1.png" alt="toaster" width="50%">
-
 #### Apple M4 Toast Pro
 <img src="toaster/final-render.png" alt="toaster" width="50%">
 
