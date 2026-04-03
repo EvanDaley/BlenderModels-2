@@ -4,6 +4,9 @@ This repo includes a bunch of unfinished models and some render output that I us
 
 Some of my favorite models are:
 
+#### Hornet from Hollow Knight: Silksong
+<img src="hollow-knight/hornet.png" alt="Hornet from Hollow Knight: Silksong" width="50%">
+
 #### Apple M4 Toast Pro
 <img src="toaster/final-render.png" alt="toaster" width="50%">
 
