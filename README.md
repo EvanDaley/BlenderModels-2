@@ -1,19 +1,21 @@
+# Blender Misc Workspace
+
 Blender models in Blender and sometimes glTF 2 format, along with hdri files and render output.
 
 This repo includes a bunch of unfinished models and some render output that I used for my portfolio site. Theres lots of garbage and fluff as well. When this gets too bloated, I'll take my favorite stuff and move it into a new repo and retire this one. 
 
 Some of my favorite models are:
 
-#### Hornet from Hollow Knight: Silksong
+### Hornet from Hollow Knight: Silksong
 <img src="hollow-knight/hornet.png" alt="Hornet from Hollow Knight: Silksong" width="75%">
 
-#### Apple M4 Toast Pro (Mock Concept)
+### Apple M4 Toast Pro (Mock Concept)
 <img src="toaster/final-render.png" alt="toaster" width="75%">
 
-#### Scifi Typewriter
+### Scifi Typewriter
 <img src="typewriter/type-writer-render-1.png" alt="typewriter" width="75%">
 
-#### Oreo (Inspired by [Dovolo](https://www.youtube.com/shorts/dAl5pHsJfdo))
+### Oreo (Inspired by [Dovolo](https://www.youtube.com/shorts/dAl5pHsJfdo))
 <img src="oreo/oreo.png" alt="oreo" width="75%">
 
 <!-- ### "Evil Drone" - Baal-Eye Mk II
