@@ -13,7 +13,7 @@ Some of my favorite models are:
 <img src="toaster/final-render.png" alt="toaster" width="75%">
 
 ### Scifi Typewriter
-<img src="typewriter/type-writer-render-1.png" alt="typewriter" width="75%">
+<img src="typewriter/type-writer-render-2.png" alt="typewriter" width="75%">
 
 ### Oreo (Inspired by [Dovolo](https://www.youtube.com/shorts/dAl5pHsJfdo))
 <img src="oreo/oreo.png" alt="oreo" width="75%">
