@@ -7,10 +7,13 @@ This repo includes a bunch of unfinished models and some render output that I us
 Some of my favorite models are:
 
 ### Hornet from Hollow Knight: Silksong
-<img src="hollow-knight/hornet.png" alt="Hornet from Hollow Knight: Silksong" width="75%">
+<img src="hollow-knight/hornet.png" alt="Hornet from Hollow Knight: Silksong" width="74%">
 
 ### Mech 1
 <img src="mech1/mech1gif.gif" alt="Mech 1" width="75%">
+
+### Rifle 1
+<img src="guns/rifle1.png" alt="Rifle 1" width="75%">
 
 ### Apple M4 Toast Pro (Mock Concept)
 <img src="toaster/final-render.png" alt="toaster" width="75%">
