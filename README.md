@@ -6,6 +6,10 @@ This repo includes a bunch of unfinished models and some render output that I us
 
 Some of my favorite models are:
 
+### Shape 2
+Some generic modeling based on the Bevels and Booleans mech course.
+<img src="abstract-shape/shape2.png" alt="Shape 2" width="75%">
+
 ### Oreo (Inspired by [Dovolo](https://www.youtube.com/shorts/dAl5pHsJfdo))
 <img src="oreo/oreo.png" alt="oreo" width="75%">
 
